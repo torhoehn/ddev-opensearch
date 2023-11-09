@@ -4,7 +4,7 @@
 
 Uses [opensearch official image](https://hub.docker.com/r/opensearchproject/opensearch)
 
-`ddev get ddev/ddev-opensearch`
+`ddev get torhoehn/ddev-opensearch`
 
 ## Configuration
 
